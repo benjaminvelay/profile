@@ -1,0 +1,22 @@
+body {
+  background-color: #FFFFFF;
+  color: #484848;
+  font-family: 'Roboto', sans-serif;
+;
+
+}
+
+.card {
+  background-color: ##D1D5D6;
+  margin: 20px auto;
+  text-align: center;
+  padding: 30px;
+  border-radius: 7px;
+}
+
+.Benjamin Velay Photo {
+
+  <img src="../images/Photo.Benjamin.Velay.Couleur.jpg" alt="Benjamin Velay Photo">
+  max-width: 50%;
+  height: auto;
+}
